@@ -1,0 +1,1 @@
+Games 정보 저장 및 상태 알림을 위한 REST API
